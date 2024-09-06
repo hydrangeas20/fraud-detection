@@ -12,9 +12,19 @@ Fraud in the context of credit cards refers to the unauthorized use or theft of 
 
 <b>4) Enhances Data Security:</b> Effective fraud detection systems improve overall data security by identifying and addressing vulnerabilities and suspicious activities, helping to safeguard sensitive personal and financial information from breaches.
 
+*The following are some slides from my presentation:
+
+![project-overview](https://github.com/user-attachments/assets/b070ab02-2a71-46a2-892c-7e510fe87fae)
 
 
+![model-development](https://github.com/user-attachments/assets/895d3ddc-52ab-490e-a499-ba4c046f5b6e)
 
 
+![split-train-test](https://github.com/user-attachments/assets/49333727-69fa-44e0-8697-c20e9a769a5a)
 
 
+![model-performance](https://github.com/user-attachments/assets/b22a9000-7fd4-4a9f-8903-c6b0fc584599)
+
+![fraud-detection-in-action](https://github.com/user-attachments/assets/40ab14dc-375c-4988-90d6-926d927285c4)
+
+![fraud-detection-model](https://github.com/user-attachments/assets/c82c87ec-7649-4d8e-a847-dcc1a177eacd)
